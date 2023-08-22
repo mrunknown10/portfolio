@@ -2,7 +2,6 @@ import React from "react";
 import "./index.scss";
 import priyam_logo from "../../../assets/meet_p.png";
 import resume from "../../../assets/Priyam.pdf";
-import { BsMedium } from "react-icons/bs";
 
 const About = ({ theme }) => {
   return (

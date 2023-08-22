@@ -28,7 +28,7 @@ const Footer = ({ theme }) => {
       <div>
         <img src={pm} alt="Meet" />
         <h3>Meet Patel</h3>
-        <p>I have stood on a mountain of no’s for one yes.</p>
+        <p>I have stood on a mountain of for one yes.</p>
       </div>
 
       <aside>

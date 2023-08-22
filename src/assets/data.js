@@ -1,15 +1,9 @@
-import javascript from "./skills/javascript.png";
-import react from "./skills/react.png";
-import nodeJs from "./skills/nodeJs.png";
-import typescript from "./skills/typescript.png";
-import html5 from "./skills/html-5.png";
-import css3 from "./skills/css3.png";
-import bootstrap from "./skills/bootstrap.png";
-import vscode from "./skills/vscode.png";
-import figma from "./skills/figma.png";
-import mysql from "./skills/mysql.png";
-import mongodb from "./skills/mongodb.png";
-import express from "./skills/express.png";
+import aws from "./skills/aws.png";
+import network from "./skills/network.png";
+import python from "./skills/python.png";
+import burpsuit from "./skills/burpsuit.png";
+import bug_bounty from "./skills/bug_bounty.png";
+
 
 export const projects = [
   {
@@ -78,88 +72,33 @@ export const experiences = [
 
 export const skills = [
   {
-    name: "Javascript",
-    description: "Web development",
-    link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-    type: "development",
-    image: javascript,
+    name: "AWS",
+    description: "Cloud Platform",
+    type: "All Skills",
+    image: aws,
   },
   {
-    name: "React",
-    description: "Web development",
-    link: "https://reactjs.org/",
-    type: "development",
-    image: react,
+    name: "Networking",
+    description: "Network",
+    type: "All Skills",
+    image: network,
   },
   {
-    name: "Node",
-    description: "Web development",
-    link: "https://nodejs.org/en/",
-    type: "development",
-    image: nodeJs,
+    name: "Python",
+    description: "Programing Language",
+    type: "All Skills",
+    image: python,
   },
   {
-    name: "Typescript",
-    description: "Web development",
-    link: "https://www.typescriptlang.org/",
-    type: "development",
-    image: typescript,
+    name: "BurpSuit",
+    description: "Proxy",
+    type: "All Skills",
+    image: burpsuit,
   },
   {
-    name: "Express.js",
-    description: "Web development",
-    link: "https://expressjs.com/",
-    type: "development",
-    image: express,
-  },
-  {
-    name: "HTML5",
-    description: "Web layouts",
-    link: "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",
-    type: "development",
-    image: html5,
-  },
-  {
-    name: "CSS3",
-    description: "Web design",
-    link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
-    type: "design",
-    image: css3,
-  },
-  {
-    name: "Bootstrap",
-    description: "Web design",
-    link: "https://getbootstrap.com/",
-    type: "design",
-    image: bootstrap,
-  },
-
-  {
-    name: "Visual Studio Code",
-    description: "Code editor of choice",
-    link: "https://code.visualstudio.com/",
-    type: "development",
-    image: vscode,
-  },
-  {
-    name: "Figma",
-    description: "Collaborative Design",
-    link: "https://www.figma.com/",
-    type: "design",
-    image: figma,
-  },
-  {
-    name: "MySql",
-    description: "Database",
-    link: "https://www.mysql.com/",
-    type: "database",
-    image: mysql,
-  },
-  {
-    name: "MongoDB",
-    description: "Database",
-    link: "https://www.mongodb.com/",
-    type: "database",
-    image: mongodb,
-  },
+    name: "Bug Bounty",
+    description: "",
+    type: "All Skills",
+    image: bug_bounty,
+  }
 ];

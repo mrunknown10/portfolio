@@ -14,7 +14,7 @@ const Activity = ({ theme }) => {
         >
           <img
             className=""
-            alt="Priyam Mondal"
+            alt="Patel Meet"
             src="https://github-readme-activity-graph.vercel.app/graph?username=mrunknown10&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true"
           />
         </a>
