@@ -18,7 +18,7 @@ const About = ({ theme }) => {
             <p className="hellow">
               Hello<span>____</span>
             </p>
-            <p className="name">I'm PATEL MEET</p>
+            <p className="name">I'm Patel Meet</p>
           </div>
         </h3>
         <p>
