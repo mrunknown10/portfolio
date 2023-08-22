@@ -22,7 +22,7 @@ const About = ({ theme }) => {
           </div>
         </h3>
         <p>
-          I'm a passionate cyber security student hailing from India 🇮🇳. Specializing in cyber security,
+          I'm a passionate cyber security student hailing from India. Specializing in cyber security,
           <br />
           <br />I'm dedicated to solving complex problems and crafting user-centric solutions. With a keen interest in safeguarding digital landscapes, I'm excited to refine my skills within an engaging learning environment. I'm eager to contribute to a safer online world by developing expertise in cyber security.
         </p>
