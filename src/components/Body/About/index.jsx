@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.scss";
 import priyam_logo from "../../../assets/meet_p.png";
-import resume from "../../../assets/Priyam.pdf";
+import resume from "../../../assets/meet_resume.pdf";
 
 const About = ({ theme }) => {
   return (
