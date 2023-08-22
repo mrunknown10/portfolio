@@ -1,14 +1,10 @@
 import React from "react";
 import pm from "../../assets/meet.png";
 import {
-  AiFillCode,
-  AiFillFacebook,
   AiFillGithub,
   AiFillInstagram,
   AiFillLinkedin,
-  AiFillTwitterCircle,
 } from "react-icons/ai";
-import { SiMedium } from "react-icons/si";
 import "./index.scss";
 
 const Footer = ({ theme }) => {
@@ -28,7 +24,8 @@ const Footer = ({ theme }) => {
       <div>
         <img src={pm} alt="Meet" />
         <h3>Meet Patel</h3>
-        <p>I have stood on a mountain of for one yes.</p>
+        <p>Every think can be hack nothing is impossible and never give up
+        </p>
       </div>
 
       <aside>
