@@ -46,7 +46,7 @@ const Skill = ({ theme }) => {
       </section>
       <section className="skill_list mx-auto">
         {skillType === "all" &&
-          skills.map((item, index) => (
+          skills.map((item) => (
             <SkillCard
               name={item.name}
               description={item.description}
