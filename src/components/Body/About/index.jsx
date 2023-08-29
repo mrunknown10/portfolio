@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.scss";
-import priyam_logo from "../../../assets/meet_p.png";
+import meet from "../../../assets/meet_p.png";
 import resume from "../../../assets/meet_resume.pdf";
 
 const About = ({ theme }) => {
@@ -8,7 +8,7 @@ const About = ({ theme }) => {
     <div className="about d-flex justify-content-between flex-column flex-lg-row">
       <section className="dp">
         <picture>
-          <img src={priyam_logo} alt="priyam_logo" />
+          <img src={meet} alt="meet" />
         </picture>
       </section>
       <section className="description px-3 px-md-4 pb-4 pt-0 pt-lg-4">
