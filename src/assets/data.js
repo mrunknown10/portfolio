@@ -72,7 +72,7 @@ export const experiences = [
 
 export const skills = [
   {
-    name: "AWS Hacking",
+    name: "AWS",
     description: "Cloud Platform",
     type: "All Skills",
     image: aws,
